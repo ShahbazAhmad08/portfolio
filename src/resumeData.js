@@ -74,8 +74,8 @@ const resumeData = {
       name: "Portfolio Website",
       description:
         "Built with React and deployed via GitHub Pages. Showcases skills, projects, and contact info.",
-      liveLink: "https://shahbazahmad08.github.io/",
-      githubLink: "https://github.com/ShahbazAhmad08/shahbazahmad08.github.io",
+      liveLink: "https://portfolio-shahbaz-4.vercel.app/",
+      githubLink: "https://github.com/ShahbazAhmad08/portfolio",
     },
   ],
   education: [

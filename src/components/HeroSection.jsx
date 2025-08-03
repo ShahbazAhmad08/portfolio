@@ -50,7 +50,8 @@ const HeroSection = ({ resumeData }) => (
         </a>
         {/* Placeholder for resume download link - replace with a real link */}
         <a
-          href="https://your-resume-link.pdf"
+          href="/Shahbaz_Ahmad_Resume.pdf"
+          download="Shahbaz_Ahmad_Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="p-3 bg-purple-500 text-gray-950 rounded-full hover:bg-purple-600 transition-colors duration-300 shadow-lg"
