@@ -66,9 +66,9 @@ const resumeData = {
       name: "Eat & Chill - Smart Restaurant Ordering Web App",
       description:
         "A full-stack system with secure authentication and Stripe payments. Includes an Admin Dashboard for menu management and order tracking. Built with MERN stack, JWT, Stripe, bcrypt, React Router DOM, React Toastify, and CSS.",
-      liveLinkUser: "https://eat-and-chill-user.netlify.app/",
-      liveLinkAdmin: "https://eat-and-chill-admin.netlify.app/",
-      githubLink: "https://github.com/ShahbazAhmad08/Eat-and-Chill",
+      liveLinkUser: "https://eatandchill-frontend.onrender.com/",
+      liveLinkAdmin: "https://eatandchill-admin.onrender.com/",
+      githubLink: "https://github.com/ShahbazAhmad08/EatAndChill",
     },
     {
       name: "Portfolio Website",
