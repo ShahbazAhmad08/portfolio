@@ -1,6 +1,6 @@
 const resumeData = {
   name: "Shahbaz Ahmad",
-  title: "Frontend Developer | React.js Developer | React Native Developer",
+  title: "Frontend Developer | React.js Developer ",
   summary:
     "Frontend Developer with hands-on experience building modern web and mobile applications using React.js, Next.js, and React Native. Skilled in developing scalable UI systems, implementing REST APIs, and creating real-world projects including marketplace apps and AI-powered platforms. Strong understanding of JavaScript (ES6+), responsive design, and performance optimization. Passionate about building clean, user-friendly, and production-ready applications.",
 
@@ -18,6 +18,7 @@ const resumeData = {
       "JavaScript (ES6+)",
       "React.js",
       "Next.js",
+      "React Native",
       "Redux",
       "Tailwind CSS",
       "Responsive Design",
